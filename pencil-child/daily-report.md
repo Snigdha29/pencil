@@ -1,3 +1,12 @@
+September 17th, 2021
+
+Work Done -
+1. Looking into different features of Pencil theme
+2. Looking at different popular WordPress sites to find some elements we can add to it
+3. Hands on practice of theme development
+
+Time Spent (IST) - 11am - 2pm, 3pm - 8pm
+
 September 16th, 2021
 
 Work Done -
