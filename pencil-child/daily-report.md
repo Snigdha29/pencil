@@ -1,3 +1,13 @@
+September 20th, 2021
+
+Work Done -
+1. Installed wp-dev-lib for phpcs and other linters and their dependencies
+2. Theme development - hands on practice
+3. looking into themes - _s and twentytwenty
+4. Going through theme handbook
+
+Time Spent (IST) - 9am - 12pm, 1pm - 4pm, 4;30pm - 6:30pm
+
 September 17th, 2021
 
 Work Done -
