@@ -1,3 +1,16 @@
+September 21st, 2021
+
+Work Done -
+1. Added new functions following best practices to child theme according to
+https://developer.wordpress.org/themes/advanced-topics/child-themes/ and https://developer.wordpress.org/themes/basics/linking-theme-files-directories/
+2. I'm looking into creating rtl.css file
+3. Looking for elements in the theme that can be modified
+
+Queries/Plans -
+I think the current footer looks classy. So I will only make changes that you specify because I'm not sure what changes to add there. I think we can add spaces between the main content and next/previous article, and between next/previous article and comments section. And add some different style for visited and unvisited posts, and make the links for posts more prominent.
+
+Time Spent (IST) - 9:30am - 1:30pm, 3pm - 7pm
+
 September 20th, 2021
 
 Work Done -
