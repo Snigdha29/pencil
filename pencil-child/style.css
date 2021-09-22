@@ -7,3 +7,35 @@
  Tags:         translation-ready, grid-layout, blog, news, left-sidebar, right-sidebar, custom-background, two-columns, three-columns, featured-images, full-width-template, post-formats, sticky-post, theme-options, threaded-comments
  Text Domain: pencil-chil
  */
+
+/* Image alignment issue - adding values of .alignnone to figure.wp-block-image */
+@media (min-width: 48em) {
+  figure.wp-block-image {
+    min-width: 121.66%;
+    margin-left: -21.66%;
+  }
+}
+
+/* Focus on selected link */
+a:hover {
+  color: rgba(0, 0, 0, 0.7);
+}
+
+.entry-title a:hover {
+  text-decoration: underline;
+}
+
+/* Different color for seen posts */
+li a:visited {
+  color: #006d77;
+}
+
+/* Spacing between conent, post navigation and comments section */
+.hentry {
+  margin: 0 0 2em;
+}
+
+.comments-title,
+.comment-reply-title {
+  margin-top: 1rem;
+}

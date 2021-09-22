@@ -1,8 +1,21 @@
+September 22nd, 2021
+
+Work Done -
+
+1. Modified the following elements' style -
+   a) Space between content, post navigation and comments section
+   b) Added visual changes (underline and opacity) on hovering over the link
+   c) Added different color for visited links in the sidebar
+   d) Image alignment issue fixed
+
+Time Spent (IST) - 9am - 2pm, 4pm - 7pm
+
 September 21st, 2021
 
 Work Done -
+
 1. Added new functions following best practices to child theme according to
-https://developer.wordpress.org/themes/advanced-topics/child-themes/ and https://developer.wordpress.org/themes/basics/linking-theme-files-directories/
+   https://developer.wordpress.org/themes/advanced-topics/child-themes/ and https://developer.wordpress.org/themes/basics/linking-theme-files-directories/
 2. I'm looking into creating rtl.css file
 3. Looking for elements in the theme that can be modified
 
@@ -14,9 +27,10 @@ Time Spent (IST) - 9:30am - 1:30pm, 3pm - 7pm
 September 20th, 2021
 
 Work Done -
+
 1. Installed wp-dev-lib for phpcs and other linters and their dependencies
 2. Theme development - hands on practice
-3. looking into themes - _s and twentytwenty
+3. looking into themes - \_s and twentytwenty
 4. Going through theme handbook
 
 Time Spent (IST) - 9am - 12pm, 1pm - 4pm, 4;30pm - 6:30pm
@@ -24,6 +38,7 @@ Time Spent (IST) - 9am - 12pm, 1pm - 4pm, 4;30pm - 6:30pm
 September 17th, 2021
 
 Work Done -
+
 1. Looking into different features of Pencil theme
 2. Looking at different popular WordPress sites to find some elements we can add to it
 3. Hands on practice of theme development
@@ -33,9 +48,10 @@ Time Spent (IST) - 11am - 2pm, 3pm - 8pm
 September 16th, 2021
 
 Work Done -
+
 1. Forked and Cloned Pencil repo, applied pencil theme to WordPress to check out its features
 2. Created Pencil-child theme folder with style.css and functions.php
 3. Started with the WordPress Course provided by rtcamp, went through coding standards and best practices
-4. Installing Composer, VSCode and WordPress local environment using Docker and npm (WordPress may take overnight) 
+4. Installing Composer, VSCode and WordPress local environment using Docker and npm (WordPress may take overnight)
 
 Time Spent (IST) - 12pm - 1:30pm, 3pm - 6:30pm
