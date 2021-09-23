@@ -8,14 +8,6 @@
  Text Domain: pencil-chil
  */
 
-/* Image alignment issue - adding values of .alignnone to figure.wp-block-image */
-@media (min-width: 48em) {
-  figure.wp-block-image {
-    min-width: 121.66%;
-    margin-left: -21.66%;
-  }
-}
-
 /* Focus on selected link */
 a:hover {
   color: rgba(0, 0, 0, 0.7);
@@ -38,4 +30,12 @@ li a:visited {
 .comments-title,
 .comment-reply-title {
   margin-top: 1rem;
+}
+
+/* Image alignment issue - adding values of .alignnone to figure.wp-block-image */
+@media (min-width: 48em) {
+  figure.wp-block-image {
+    min-width: 121.66%;
+    margin-left: -21.66%;
+  }
 }
