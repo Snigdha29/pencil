@@ -1,3 +1,12 @@
+September 23rd, 2021
+
+Work Done -
+
+1. Trying to fix 'Response is not valid json response' when creating new posts using child theme
+2. Looking into WooCommerce support for theme
+
+Time Spent (IST) - 9am - 11am, 12pm - 3pm, 4pm - 7pm
+
 September 22nd, 2021
 
 Work Done -
