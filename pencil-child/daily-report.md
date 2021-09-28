@@ -1,3 +1,33 @@
+September 28th, 2021
+
+Work Done -
+
+1. Looking into writing custom dockerfile and docker-compose.yml
+2. Added support to Pencil Child theme for WooCommerce Plugin
+3. Setting up WooCommerce store to look into how different template files work and how best to customize them
+
+Time Spent (IST) - 9am - 2pm, 3pm - 6pm
+
+September 27th, 2021
+
+Work Done -
+
+1. Successfully set up WordPress using docker-compose
+2. Set up XDebug in VSCode using dockerfile
+3. Looking into working with Docker (building images and running containers) using VSCode
+
+Time Spent (IST) - 9:30am - 1pm, 3pm - 7:30pm
+
+September 24th, 2021
+
+Work Done -
+
+1. Setting up local WordPress Environment using Docker
+2. Looking into docker images and containers
+3. Setting up XDebug for VSCode
+
+Time Spent (IST) - 10am - 1pm, 2:30pm - 7:30pm
+
 September 23rd, 2021
 
 Work Done -
