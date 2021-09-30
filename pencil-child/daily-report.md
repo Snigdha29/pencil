@@ -1,3 +1,23 @@
+September 30th, 2021
+
+Work Done -
+
+1. Looking into WooCommerce template hierarchy and overriding templates
+2. Looking into different WooCommerce hooks
+3. Added archive-product template file
+
+Time Spent (IST) - 10am - 2pm, 3pm - 7pm
+
+September 29th, 2021
+
+Work Done -
+
+1. Working on writing custom Dockerfile
+2. Setting up WooCommerce store
+3. Looking into WooCommerce template hierarchy
+
+Time Spent (IST) - 10am - 2pm, 3pm - 7pm
+
 September 28th, 2021
 
 Work Done -
