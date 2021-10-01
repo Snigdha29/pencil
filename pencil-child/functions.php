@@ -14,7 +14,10 @@ function my_theme_enqueue_styles() {
 }
 
 function my_theme_woocommerce_setup(){
-    add_theme_support("woocommerce");
+    add_theme_support('woocommerce');
 }
 add_action( 'after_setup_theme', 'my_theme_woocommerce_setup' );
+
+remove_action('woocommerce_sidebar','woocommerce_get_sidebar');
+
 ?>
