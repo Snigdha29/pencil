@@ -39,3 +39,33 @@ li a:visited {
     margin-left: -21.66%;
   }
 }
+
+/* WooCommerce */
+
+/* WooCommerce Add to Cart button*/
+.woocommerce button.button.alt:hover {
+  background-color: #006d77;
+  color: #e8f7fc;
+}
+
+.woocommerce button.button.alt,
+.woocommerce button.button.alt.disabled {
+  background-color: #15a2d1;
+}
+
+/*Price*/
+.woocommerce div.product p.price,
+.woocommerce ul.products li.product .price,
+.woocommerce div.product span.price {
+  color: #138c97;
+}
+
+/*Sale Tag*/
+.woocommerce span.onsale {
+  background-color: rgb(241, 60, 60);
+}
+
+/* Declutter Checkout Area */
+.woocommerce-cart .widget-area {
+  display: none;
+}
