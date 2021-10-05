@@ -40,9 +40,14 @@ li a:visited {
   }
 }
 
+/* Remove Edit Link From Home Page */
+.home span.edit-link a.post-edit-link {
+  display: none;
+}
+
 /* WooCommerce */
 
-/* WooCommerce Add to Cart button*/
+/* Change colour of Add to Cart button*/
 .woocommerce button.button.alt:hover {
   background-color: #006d77;
   color: #e8f7fc;
@@ -53,19 +58,56 @@ li a:visited {
   background-color: #15a2d1;
 }
 
-/*Price*/
+/*Change Price Colour*/
 .woocommerce div.product p.price,
 .woocommerce ul.products li.product .price,
 .woocommerce div.product span.price {
   color: #138c97;
 }
 
-/*Sale Tag*/
+/*Change Sale Tag Colour to Red*/
 .woocommerce span.onsale {
   background-color: rgb(241, 60, 60);
 }
 
 /* Declutter Checkout Area */
-.woocommerce-cart .widget-area {
+.woocommerce-cart .widget-area,
+.woocommerce-cart span.edit-link {
   display: none;
+}
+
+/* Declutter My Account Page */
+.page-template-default.woocommerce-page.woocommerce-account .widget-area,
+.page-template-default.woocommerce-page.woocommerce-account span.edit-link {
+  display: none;
+}
+
+.woocommerce-MyAccount-navigation li {
+  margin: 0.1em;
+}
+
+/* Cart Icon */
+
+.cart-contents:before {
+  font-family: FontAwesome;
+  content: "\f07a";
+  font-size: 28px;
+  margin-top: 10px;
+  font-style: normal;
+  font-weight: 400;
+  padding-right: 5px;
+  vertical-align: bottom;
+}
+.cart-contents:hover {
+  text-decoration: none;
+}
+.cart-contents-count {
+  color: #fff;
+  background-color: rgb(241, 60, 60);
+  font-weight: bold;
+  border-radius: 10px;
+  padding: 1px 6px;
+  line-height: 1;
+  font-family: Arial, Helvetica, sans-serif;
+  vertical-align: top;
 }
